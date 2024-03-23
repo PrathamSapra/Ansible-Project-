@@ -22,6 +22,6 @@ Architecture Diagram
 ![image](https://github.com/PrathamSapra/Ansible-Project-/assets/137300683/c4d38d61-8d5a-4ae8-a055-f2302cb8d740)
 
 
-Credits
+**Credits**
 This project was completed as a college assignment with guidance from Leo Lu
 For further details or inquiries, feel free to contact pssapra@myseneca.ca
