@@ -20,6 +20,8 @@ templates/: Directory containing templates for website content or configuration 
 README.md: This file, providing an overview of the project and instructions for running it.
 Architecture Diagram
 ![image](https://github.com/PrathamSapra/Ansible-Project-/assets/137300683/c4d38d61-8d5a-4ae8-a055-f2302cb8d740)
+![image](https://github.com/PrathamSapra/Ansible-Project-/assets/137300683/26a16e07-9dae-4cd6-b54f-b779332a6bc9)
+
 
 
 **Credits**
